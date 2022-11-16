@@ -1,0 +1,24 @@
+<!-- area de popup -->
+                  <p><a href="#popup">Ver configuración</a></p>
+                  <div id="popup" class="overlay">
+                    <div id="popupBody">
+                      <h2>Configuración del equipo</h2>
+                      <a id="cerrar" href="#">&times;</a>
+                      <div class="popupContent">
+                        <ul>
+                          <li>CPU Intel Core i5 10400F / 2.90 GHz, 12 MB Caché L3</li>
+                          <li>Disco Duro HDD 1TB</li>
+                          <li>Disco Sólido M2 256GB NVME</li>
+                          <li>Memoria RAM 16GB DDR4 2666 MHz</li>
+                          <li>Monitor 24" FHD Curvo</li>
+                          <li>Mainboard B460M DVI/ HDMI</li>
+                          <li>Tarjeta de Video Nvidia GTX1050 4GB GDDR5</li>
+                          <li>Kit Gamer: Teclado, mouse</li>
+                          <li>Fuente Real 550 Wr</li>
+                          <li>Garantía 1 año</li>
+                          <li>Producto: Nuevo</li>
+                          </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- aquí termina el área del popup -->

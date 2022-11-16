@@ -1,32 +1,19 @@
 PC1
-PC Gamer Draco Plus Core I5 10400F
-S/ 3,699
-Precio Regular s/ 3,999
-
-CPU Intel Core i5 10400F
-2.90 GHz, 12 MB Caché L3
+CPU Intel Core i5 10400F / 2.90 GHz, 12 MB Caché L3
 Disco Duro HDD 1TB
 Disco Sólido M2 256GB NVME
 Memoria RAM 16GB DDR4 2666 MHz
 Monitor 24" FHD Curvo
 Mainboard B460M DVI/ HDMI
-Tarjeta de Video Nvidia GTX1050 4GB GDDR5 
+Tarjeta de Video Nvidia GTX1050 4GB GDDR5
 Kit Gamer: Teclado, mouse
-Fuente Real 550 W
-
-Por el Cyber PC:
-Llévate gratis un auricular (color de acuerdo a stock), una cámara web FHD y Wifi.
-
+Fuente Real 550 Wr
 Garantía 1 año
 Producto: Nuevo
 
 
 
 PC2
-PC Gamer Draco Green Core I5 10TH
-S/ 2,999
-Precio Regular s/ 3,599
-
 CPU Intel Core i5 10400F
 2.90 GHz, 12 MB Caché L3
 Disco Sólido SSD 500GB
@@ -36,20 +23,12 @@ Mainboard H510 DVI/ HDMI
 Tarjeta de Video  GT1030
 Kit Gamer: Teclado, mouse
 Fuente Real 550 W
-
-Por el Cyber PC:
-Llévate gratis un auricular (color de acuerdo a stock), una cámara web FHD y Wifi.
-
 Garantía 1 año
 Producto: Nuevo
 
 
 
 PC3
-PC Gamer Draco Plus Core I5 10400F 10Th Gen
-S/ 2,599
-Precio Regular s/ 3,099
-
 CPU Intel Core i5 10400F
 2.9 GHz Cache 12MB
 Disco Sólido SSD 256 GB
@@ -59,19 +38,11 @@ Mainboard H410 DVI/ HDMI
 Tarjeta de Video Nvidia GT1030 2GB 
 Kit Gamer: Teclado, mouse
 Fuente Real 550 W
-
-Por el Cyber PC:
-Llévate gratis un auricular (color de acuerdo a stock), una cámara web FHD y Wifi.
-
 Garantía 1 año
 Producto: Nuevo
 
 
 LAP1
-Laptop Acer Predator Triton Core I7 11th
-S/ 6,999
-Precio Regular s/ 8,799
-
 Intel Core i7 11375H 3.3GHz 
 4 núcleos, caché 12MB
 Disco sólido SSD 512GB
@@ -83,45 +54,28 @@ HDMI / USB 3.2 / DisplayPort
 Windows 10
 Teclado en inglés RGB retroiluminado
 Batería 4 celdas
-
-Oferta Especial:
-Antivirus Protección Total 1 año  s/89
-
 Garantia: 1 año
 Producto: Nueva
 
 
 
 LAP2
-Laptop HP 15T-DK200 GAMING 15.6" Core I7 11TH
-S/ 6,999
-Precio Regular s/ 7,799
-
 Laptop Intel Core i7 11370H 3.3 GHz
 4 núcleos, Caché 12 MB
 Disco Sólido SSD 512GB
 RAM 16 GB DDR4 3200 MHz 
 Pantalla 15.6" FHD 144Hz
 Video Nvidia GeForce RTX 3050 4GB
-Bluetooth 
-WebCam 
+Bluetooth / WebCam
 Windows 10
 USB 3.2 Gen1 / HDMI / USB 3.2 tipo C / lector SDXC
 Teclado en Inglés
 Batería 3 celdas 200W
-
-Oferta Especial:
-Antivirus Protección Total 1 año  s/89
-
 Garantia: 1 año
 Producto: Nueva
 
 
 LAP3
-Laptop MSI KATANA GF76 17.3" Core I7 11th
-S/ 7,299
-Precio Regular s/ 9,399
-
 Laptop Intel Core i7-11800H 2.3GHz
 8 núcleos, caché 24MB
 Disco Duro HDD 1TB
@@ -133,10 +87,6 @@ Bluetooth 5.2 / WebCam
 Teclado en Inglés
 Windows 10 H
 Batería 3 celdas
-
-Oferta Especial:
-Antivirus Protección Total 1 año  s/89
-
 Garantía: 1 año
 Producto: Nueva
 
