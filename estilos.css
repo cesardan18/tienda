@@ -101,6 +101,7 @@
     gap: 2%;
   }
 
+  /*Videos*/
   .videos{
     margin-left: 2%;
     width: 47%;
@@ -131,7 +132,7 @@
     padding-left: 25px;
   }
 
-
+  /*Audios*/
   .audios{
     margin-right: 2%;
     width: 47%;
@@ -162,7 +163,7 @@
     padding-left: 20px;
     padding-top: 27px;
   }
-
+/**/
 
 
 
