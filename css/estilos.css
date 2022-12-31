@@ -235,6 +235,11 @@ Lo que haremos será simplemente poner la propiedad visibility en visible, y reg
     opacity: 1;
   }
 
+  .container > p > a{
+    text-decoration: none;
+    color: #27a2e9;
+  }
+
   #popupBody{
     width: 46%;
     padding: 2%;
