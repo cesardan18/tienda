@@ -4,7 +4,12 @@
     background-color: #180838;
     color: white;
   }
-
+  h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
 /* Menú */
   header{
     width: 100%;
@@ -348,7 +353,87 @@ Lo que haremos será simplemente poner la propiedad visibility en visible, y reg
   }
 
 
-  
+/*GALERÍA DE IMAGENES*/
+.h1-galeria{
+  text-align: center;
+  /*padding: 20px 0px;*/
+}
+#galeria{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
+  width: 95%;
+  margin: auto;
+  gap: 10px;
+  padding: 40px 0px;
+  overflow: hidden; /*Los elementos se quedan dentro de la caja*/
+}
+#galeria > a{
+  display: block;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 6px #fd1f92;
+}
+#galeria a:hover img{
+  filter: blur(2px);
+  transform: rotate(10deg) scale(1.3);
+}
+#galeria img{
+  width: 100%;
+  height: 300px;
+  vertical-align: top;
+  object-fit: cover;
+  transition: transform 0.5s;
+}
+ /*light-box*/
+.light-box{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease-in-out;
+  width: 100%;
+  height: 100vh;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(0);
+}
+.light-box img{
+  width: 75vw;
+  max-height: 70vh;
+}
+.light-box:target{
+  transform: scale(1);
+}
+.close{
+  display: block;
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  background: #FF11CE;
+  color: #180838;
+  text-decoration: none;
+  width: 25px;
+  height: 25px;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 1000;
+  line-height: 25px;
+  border-radius: 50%;
+}
+.next{
+  display: block;
+  color: #FF11CE;
+  font-size: 25px;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 30px;
+}
+
+
 /* Contactos */
 
   .cont {
